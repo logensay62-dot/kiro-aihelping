@@ -1,178 +1,180 @@
-# NASKAH SCRIPT REVIEW SEA OF REMNANTS
-## Gaya: Shiro Game (Santai, Sarkastik, Lucu, Ngobrol bareng Penonton)
+NASKAH SCRIPT REVIEW SEA OF REMNANTS
+Gaya: Shiro Game (Santai, Sarkastik, Lucu, Ngobrol bareng Penonton)
+
 
 ---
 
-### [OPENING - Hook]
 
-**[Scene: Footage cinematic Sea of Remnants, kapal berlayar di lautan fantasi penuh warna]**
+[OPENING]
 
-"Oke guys... gue mau nanya satu hal. Lo pernah gak sih bangun tidur, lupa siapa diri lo, terus tiba-tiba udah di tengah laut naik kapal bajak laut? Belum? Oke berarti lo belum main Sea of Remnants."
+[Scene: Footage cinematic Sea of Remnants, kapal berlayar di lautan fantasi penuh warna]
 
-**[Beat/pause]**
+"Kalian harus tau nih! Ada game baru yang bikin gue sampe mikir — ini beneran game atau karya seni bajak laut yang bisa dimainkan? Namanya Sea of Remnants. Dan konsepnya GILA."
 
-"Ini game di mana lo itu BONEKA. Literally boneka kayu. Boneka kayu yang jadi bajak laut. Boneka kayu bajak laut yang HILANG INGATAN. Kedengeran absurd? Tunggu sampe gue ceritain sisanya."
+"Jadi di game ini, lo itu boneka kayu. Iya, boneka kayu. Yang jadi bajak laut. Yang hilang ingatan. Terus lo harus berlayar nyari laut misterius buat dapetin memori lo balik. Absurd? Banget. Tapi justru itu yang bikin menarik."
 
----
-
-### [SEGMENT 1 - Pengenalan Game]
-
-**[Scene: Footage karakter puppetfolk berlayar, panorama laut luas]**
-
-"Jadi Sea of Remnants ini adalah ocean adventure RPG buatan Joker Studio — iya, studio yang bikin Identity V. Dan publisher-nya? NetEase Games. Udah kebayang dong vibes-nya bakal ke mana."
-
-"Ceritanya gini. Lo itu seorang 'puppetfolk' — penduduk dunia ini emang semuanya boneka kayu, guys. Bukan bug, itu FEATURE. Dan karakter lo ini kehilangan seluruh memori. Solusinya? Ya berlayar dong. Cari 'Sea of Remnants' — laut legendaris yang katanya bisa jawab semua pertanyaan."
-
-"Temenin sama satu cewek misterius yang punya tujuan beda dari lo. Basically kayak road trip tapi di laut, sama orang yang baru lo kenal, dan lo berdua gatau mau ke mana. Sounds like my last relationship."
 
 ---
 
-### [SEGMENT 2 - Art Style & Visual]
 
-**[Scene: Montage visual game — kota Orbtopia, karakter-karakter, laut bioluminescent]**
+[PENGENALAN GAME]
 
-"Nah tapi yang PERTAMA KALI bikin gue nge-klik video ini pas liat trailer-nya... VISUAL-NYA, BRO."
+[Scene: Footage karakter puppetfolk berlayar, panorama laut luas]
 
-"Ini game tuh... cantik banget. Serius. Art style-nya itu gabungan antara punk rock, fantasy, sama Tim Burton kalo dia jadi bajak laut. Karakter-karakter-nya itu boneka kayu tapi di-design dengan ESTETIK yang gila. Ada yang steampunk, ada yang gothic, ada yang... gue gak tau genre apa tapi keren."
+"Sea of Remnants ini buatan Joker Studio — yang bikin Identity V. Publisher-nya NetEase Games. Jadi ini bukan game indie kecil-kecilan ya, ini project gede."
 
-"Dan yang bikin gue respect? Developer-nya KONFIRMASI gak pake AI buat artwork-nya. Semua hand-crafted. Di era 2026 di mana semua orang nge-generate art pake AI, ini studio bilang 'Nah, kita gambar sendiri.' Respect 1000."
+"Ceritanya simpel. Lo itu puppetfolk — boneka kayu hidup — yang bangun di tengah laut, gak inget apa-apa. Satu-satunya clue? Ada cewek misterius yang ngajakin lo berlayar bareng. Katanya kalo lo nemuin Sea of Remnants — laut legendaris di ujung dunia — lo bisa dapet semua jawaban."
 
-**[Zoom in muka kagum]**
+"Basically kayak road trip di laut sama orang asing. Lo gatau mau ke mana, dia juga punya agenda sendiri. Awkward? Banget. Tapi seru."
 
-"Orbtopia — kota bajak laut utama di game ini — punya 400 LEBIH NPC unik. Masing-masing punya rutinitas harian, makanan favorit, kehidupan sendiri. Ini bukan NPC generik yang cuma berdiri di pinggir jalan. Ini BONEKA HIDUP dengan personality."
 
 ---
 
-### [SEGMENT 3 - Gameplay & Combat]
 
-**[Scene: Footage turn-based combat di darat, rolling dice, skill animations]**
+[ART STYLE DAN VISUAL]
 
-"Oke sekarang gameplay. Dan ini yang bikin gue excited sekaligus confused di awal."
+[Scene: Montage visual game — kota Orbtopia, karakter-karakter, laut bioluminescent]
 
-"Soalnya game ini punya DUA sistem combat yang BEDA."
+"Nah yang pertama bikin gue tertarik itu VISUAL-nya. Ini game cantik banget guys."
 
-"Di darat? Turn-based. Kayak Honkai Star Rail. Lo atur party, giliran serang, pake skill, lempar dadu — IYA, DADU. Ada elemen RNG dari dadu yang ngaruh ke combat. Basically lo bajak laut yang nasibnya ditentuin sama lemparan dadu. Thematically? *Chef's kiss.* Mechanically? Kita liat nanti."
+"Art style-nya itu campuran punk rock, fantasy, sama vibes Tim Burton versi bajak laut. Karakter-karakternya boneka kayu tapi desainnya gila. Ada yang steampunk, ada yang gothic, ada yang gue gak tau genre apa tapi keren aja."
 
-**[Scene: Real-time naval combat, kapal tembak-tembakan]**
+"Dan satu hal yang bikin gue respect — developer-nya konfirmasi GAK pake AI buat artwork. Semua digambar manual. Di tahun 2026 di mana semua orang pake AI, studio ini bilang 'Nah kita gambar sendiri.' Salut."
 
-"Tapi BEGITU lo naik kapal dan ke laut? REAL-TIME naval combat, bro! Tembak-tembakan antar kapal! Lo manage crew, lo aim meriam, lo hindarin monster laut. Ini tiba-tiba berubah dari 'RPG santai giliran-giliran' jadi 'ASSASSIN'S CREED BLACK FLAG MODE ON.'"
+"Orbtopia, kota utama di game ini, punya 400 lebih NPC unik. Masing-masing punya rutinitas harian, makanan favorit, kehidupan sendiri. Ini bukan NPC yang cuma berdiri di pinggir jalan nunggu lo ngomong. Mereka hidup."
 
-"Ada preview yang bilang mereka literally nembak-nembakan sama GORILA pake meriam. Gue gak ngarang. Itu beneran ada di gameplay."
-
-**[Beat]**
-
-"Boneka kayu. Bajak laut. Lempar dadu. Tembak gorila pake meriam. What a time to be alive."
 
 ---
 
-### [SEGMENT 4 - Companion & Open World]
 
-**[Scene: Footage recruitment companion, interaksi karakter]**
+[GAMEPLAY DAN COMBAT]
 
-"Dan soal companion — 300 LEBIH karakter yang bisa lo rekrut, guys. TIGA RATUS. Itu lebih banyak dari temen gue di real life... combined... times ten."
+[Scene: Footage turn-based combat di darat, rolling dice, skill animations]
 
-"Masing-masing punya backstory, kemampuan unik, dan interaksi yang berbeda tergantung pilihan lo. Game ini SANGAT emphasize player choice. Tiap keputusan lo, sekecil apapun, ngaruh ke dunia. Mau lo maafin musuh, mau lo bantai, mau lo stay di kota atau cari cuan di laut — semua ada konsekuensinya."
+"Oke sekarang gameplay. Dan ini yang seru."
 
-"Ada faksi-faksi yang bereaksi ke pilihan lo. Ada kota yang BERUBAH berdasarkan apa yang lo lakuin. Ini bukan game yang bilang 'your choice matters' terus endingnya sama semua. Ini katanya beneran BRANCHING."
+"Game ini punya DUA sistem combat yang beda total."
 
-**[Ekspresi skeptis]**
+"Di darat? Turn-based. Mirip Honkai Star Rail. Lo atur party, giliran nyerang, pake skill, dan... lempar dadu. Iya, DADU. Ada elemen RNG dari dadu yang ngaruh ke battle. Lo bajak laut yang nasibnya ditentuin lemparan dadu. Cocok sih secara thematic."
 
-"...at least itu yang developer bilang. Kita liat nanti pas launch ya. Gue udah terlalu sering di-PHP-in sama janji 'meaningful choice' di game."
+[Scene: Real-time naval combat, kapal tembak-tembakan]
 
----
+"Tapi begitu lo naik kapal? Berubah jadi real-time naval combat. Tembak-tembakan antar kapal. Lo manage crew, arahkan meriam, hindarin monster laut. Tiba-tiba dari RPG santai jadi Assassin's Creed Black Flag mode."
 
-### [SEGMENT 5 - Orbtopia & Life Sim]
+"Ada preview yang bilang mereka nembak-nembakan sama GORILA pake meriam. Gue gak ngarang. Itu beneran ada di gameplay."
 
-**[Scene: Footage kota Orbtopia, crafting, shop management]**
+"Boneka kayu. Bajak laut. Lempar dadu. Tembak gorila pake meriam. Game 2026 emang beda."
 
-"Oh iya, gue belum ceritain soal ORBTOPIA. Ini kota bajak laut yang jadi home base lo. Dan bro... ini bukan cuma hub buat beli item."
-
-"Lo bisa BUKA TOKO di sini. Lo bisa craft fashion items buat crew lo. Lo bisa renovasi. Lo bisa... basically main life sim di tengah-tengah game bajak laut."
-
-"Jadi kalo lo cape berlayar, cape combat, cape liat laut — lo balik ke Orbtopia, buka toko, jualan baju bajak laut estetik. Ini Stardew Valley ketemu One Piece. Gue gak nyangka gue bakal ngomong kalimat itu tapi here we are."
 
 ---
 
-### [SEGMENT 6 - Free to Play & Monetisasi]
 
-**[Scene: Steam page, logo F2P, footage gacha/companion system]**
+[COMPANION DAN OPEN WORLD]
 
-"Nah sekarang yang bikin SEMUA orang bertanya-tanya. Ini game FREE TO PLAY. Gratis. Dan publisher-nya NetEase."
+[Scene: Footage recruitment companion, interaksi karakter]
 
-**[Pause dramatis]**
+"Soal companion — ada 300 lebih karakter yang bisa lo rekrut. Tiga ratus. Itu lebih banyak dari kontak WhatsApp gue."
 
-"Gue denger collective 'hmmmm' dari kalian semua."
+"Masing-masing punya backstory, skill unik, dan interaksi yang beda tergantung pilihan lo. Game ini emang nge-push banget soal player choice. Mau maafin musuh, mau bantai, mau stay di kota atau cari cuan di laut — semua ada konsekuensinya."
 
-"Look, kita semua tau track record game F2P dari publisher Cina. Gacha. Pay-to-win. Stamina system. Semua red flag yang bikin dompet lo nangis."
+"Ada faksi-faksi yang bereaksi ke keputusan lo. Ada kota yang berubah berdasarkan apa yang lo lakuin. Katanya beneran branching, bukan cuma basa-basi."
 
-"TAPI — dan ini gede BUT — developer-nya udah publicly bilang mereka GAK bakal bikin game ini pay-to-win. Pemain gratisan dan pemain berbayar bakal punya pengalaman yang SETARA. 300+ companion itu kemungkinan ada gacha system-nya, mirip Genshin Impact. Tapi mereka janji gameplay-wise lo gak perlu bayar buat progress."
+"At least itu yang developer bilang. Kita liat pas launch. Gue udah terlalu sering di-PHP-in sama janji 'meaningful choice' di game."
 
-"Apakah gue percaya 100%? Ehhh... gue cautiously optimistic. Gue pengen ini jadi contoh yang baik. Tapi gue juga gak mau naif. Kita tunggu launch, kita liat monetisasinya kayak gimana, baru judge."
-
-"Yang pasti — lo gak keluar duit buat NYOBAIN. Dan itu udah cukup buat gue bilang: worth a try."
 
 ---
 
-### [SEGMENT 7 - Platform & Release]
 
-**[Scene: Logo platform PS5, Steam, iOS, Android]**
+[ORBTOPIA DAN LIFE SIM]
 
-"Sea of Remnants bakal release 2026 buat PS5, PC via Steam, iOS, DAN Android. Iya, MOBILE juga. Cross-platform."
+[Scene: Footage kota Orbtopia, crafting, shop management]
 
-"Ini game yang bisa lo main di PS5 dengan grafis gila, ATAU di HP pas lagi nunggu di halte bus. Flexibility kayak gini tuh yang bikin gue appreciate. Walaupun ya, experience di PS5 sama di HP pasti beda jauh. Tapi at least opsinya ada."
+"Terus ada Orbtopia. Ini kota bajak laut yang jadi home base lo. Dan ini bukan cuma tempat beli item."
 
-"Dan karena ini dari developer Identity V — mereka udah pengalaman bikin game cross-platform yang smooth. Jadi harusnya bukan port asal-asalan."
+"Lo bisa buka toko di sini. Craft fashion items buat crew. Renovasi tempat. Basically main life sim di tengah game bajak laut."
 
----
+"Jadi kalo cape berlayar, cape combat — balik ke Orbtopia, jualan baju bajak laut estetik. Ini Stardew Valley ketemu One Piece. Gue gak nyangka gue bakal ngomong kalimat itu tapi ya begitulah."
 
-### [SEGMENT 8 - Verdict/Kesimpulan]
-
-**[Scene: Montage best moments — naval combat, exploration, Orbtopia, companions]**
-
-"Jadi, Sea of Remnants worth gak buat lo tunggu?"
-
-"Kalo lo suka RPG open world dengan estetik UNIK yang beda dari game lain — ini wajib di-wishlist."
-
-"Kalo lo fans Genshin Impact tapi pengen sesuatu yang lebih 'bajak laut punk rock boneka kayu' — ya ini aja sih gak ada lagi game yang nyediain pengalaman itu."
-
-"Kalo lo suka naval combat tapi bosen sama setting realistis — ini Assassin's Creed Black Flag tapi lebih colorful dan absurd. In the best way possible."
-
-"Kalo lo anti free-to-play dan gacha — understandable. Tunggu launch, liat review monetisasinya, baru decide. Tapi at least gak ada yang ngelarang lo buat wishlist dulu."
-
-**[Beat]**
-
-"Buat gue personally? Ini salah satu game yang paling bikin gue penasaran di 2026. Karena jarang banget ada game yang se-BERANI ini dari segi art direction. Boneka kayu jadi bajak laut? Di laut fantasi penuh monster? Dengan 300+ companion dan kota yang hidup? Dan GRATIS?"
-
-"Either this is gonna be amazing, or it's gonna be a beautiful disaster. Either way — gue bakal main. Dan gue bakal bikin video lagi pas launch."
 
 ---
 
-### [OUTRO]
 
-**[Scene: Karakter berlayar ke sunset, Orbtopia di kejauhan]**
+[FREE TO PLAY DAN MONETISASI]
 
-"Oke guys, segitu dulu review gue tentang Sea of Remnants. Kalo lo suka video ini, lo tau drill-nya — like, subscribe, pencet lonceng. Bantu channel ini biar gue bisa terus review game-game yang unik kayak gini."
+[Scene: Steam page, logo F2P]
 
-"Kalo lo udah ikut alpha test-nya, komen di bawah — companion favorit lo siapa? Dan seberapa sering lo mati ditembak gorila pake meriam?"
+"Nah ini yang bikin semua orang mikir dua kali. Game ini FREE TO PLAY. Gratis. Publisher-nya NetEase."
 
-"See you di video selanjutnya. Dan inget..."
+"Gue denger 'hmmmm' dari kalian."
 
-**[Pause]**
+"Kita semua tau track record game F2P. Gacha, pay-to-win, stamina system. Semua red flag klasik."
 
-"...kalo lo lupa ingatan di tengah laut, minimal pastiin kapal lo gak bocor dulu. Priorities, bro."
+"Tapi developer-nya udah bilang secara publik — mereka gak bakal bikin pay-to-win. Pemain gratisan dan pemain berbayar dapet pengalaman yang setara. 300 companion itu kemungkinan ada gacha mirip Genshin Impact, tapi progress-wise lo gak perlu bayar."
 
-**[END CARD / OUTRO MUSIC]**
+"Percaya 100%? Belum. Tapi gue cautiously optimistic. Yang pasti lo gak keluar duit buat nyobain. Dan itu udah cukup buat bilang worth a try."
 
----
-
-## CATATAN PRODUKSI:
-- **Durasi estimasi:** 10-14 menit
-- **Tone:** Santai, lucu, sarkastik tapi tetap informatif dan fair soal F2P concern
-- **Editing style:** Jump cut cepat, zoom in pas punchline, sound effect lucu, overlay teks di momen sarkastik
-- **BGM:** Pirate-themed lo-fi buat segment santai, epic orchestral buat segment naval combat, chill acoustic buat segment Orbtopia/life sim
-- **Referensi footage:** Trailer resmi Sea of Remnants, Wanderer Test gameplay, footage preview dari media
 
 ---
 
-*Sumber informasi: [Steam Store Page](https://store.steampowered.com/app/3633680/Sea_of_Remnants/), [IGN](https://www.ign.com/games/sea-of-remnants), [Screen Rant Preview](https://screenrant.com/sea-of-remnants-hands-on-preview/), [RPGSite](https://www.rpgsite.net/news/19307-sea-of-remnants-new-gameplay-2026-closed-alpha-release-date), [Fextralife Wiki](https://seaofremnants.wiki.fextralife.com/Sea_of_Remnants_Wiki)*
-*Content was rephrased for compliance with licensing restrictions.*
+
+[PLATFORM DAN RELEASE]
+
+[Scene: Logo platform PS5, Steam, iOS, Android]
+
+"Sea of Remnants rilis 2026 buat PS5, PC via Steam, iOS, dan Android. Cross-platform."
+
+"Mau main di PS5 grafis gila, atau di HP pas nunggu di halte — opsinya ada. Dan karena developer-nya udah pengalaman bikin Identity V yang cross-platform, harusnya ini bukan port asal-asalan."
+
+
+---
+
+
+[KESIMPULAN]
+
+[Scene: Montage best moments — naval combat, exploration, Orbtopia, companions]
+
+"Jadi worth gak Sea of Remnants buat ditunggu?"
+
+"Kalo lo suka RPG open world dengan estetik beda dari yang lain — wajib wishlist."
+
+"Kalo lo fans Genshin tapi pengen vibe bajak laut boneka kayu — ya cuma game ini yang nawarin itu."
+
+"Kalo lo suka naval combat tapi bosen setting realistis — ini jawabannya."
+
+"Kalo lo anti F2P dan gacha — fair. Tunggu launch, liat monetisasinya dulu, baru decide."
+
+"Buat gue personally? Ini salah satu game paling bikin penasaran di 2026. Art direction-nya berani, konsepnya unik, dan gratis. Mau bagus mau jelek — gue bakal main dan bikin video lagi pas launch."
+
+
+---
+
+
+[OUTRO]
+
+[Scene: Karakter berlayar ke sunset, Orbtopia di kejauhan]
+
+"Oke guys, segitu dulu review gue tentang Sea of Remnants. Kalo suka video ini — like, subscribe, pencet lonceng. Bantu channel ini biar gue bisa terus review game unik kayak gini."
+
+"Kalo udah ikut alpha test-nya, komen di bawah — companion favorit siapa? Dan seberapa sering mati ditembak gorila?"
+
+"See you di video selanjutnya. Dan inget — kalo lo lupa ingatan di tengah laut, minimal pastiin kapal lo gak bocor dulu. Priorities."
+
+[END CARD / OUTRO MUSIC]
+
+
+---
+
+
+CATATAN PRODUKSI:
+- Durasi estimasi: 10-14 menit
+- Tone: Santai, lucu, sarkastik tapi tetap informatif
+- Editing style: Jump cut cepat, zoom in pas punchline, sound effect lucu, overlay teks di momen sarkastik
+- BGM: Pirate-themed lo-fi buat segment santai, epic orchestral buat naval combat, chill acoustic buat Orbtopia
+- Referensi footage: Trailer resmi Sea of Remnants, Wanderer Test gameplay, footage preview dari media
+
+
+---
+
+
+Sumber informasi: Steam Store Page (https://store.steampowered.com/app/3633680/Sea_of_Remnants/), IGN (https://www.ign.com/games/sea-of-remnants), Screen Rant Preview (https://screenrant.com/sea-of-remnants-hands-on-preview/), RPGSite (https://www.rpgsite.net/news/19307-sea-of-remnants-new-gameplay-2026-closed-alpha-release-date), Fextralife Wiki (https://seaofremnants.wiki.fextralife.com/Sea_of_Remnants_Wiki)
+Content was rephrased for compliance with licensing restrictions.
