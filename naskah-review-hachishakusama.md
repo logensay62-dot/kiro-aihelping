@@ -1,175 +1,137 @@
-# NASKAH SCRIPT REVIEW 八尺様がいた夏休み (HACHISHAKUSAMA)
-## Gaya: Shiro Game (Santai, Sarkastik, Lucu, Ngobrol bareng Penonton)
+NASKAH SCRIPT REVIEW GAME HACHISHAKUSAMA (八尺様がいた夏休み)
+Gaya: Shiro Game
+
 
 ---
 
-### [OPENING - Hook]
 
-**[Scene: Footage game, suasana pedesaan Jepang yang damai, musim panas]**
+[OPENING]
 
-"Oke guys... lo pernah gak sih liburan ke rumah kakek nenek, terus disuruh bantu-bantu di kebun, nyapu halaman, beliin rokok ke warung? Nostalgia kan? Damai kan?"
+Kalian harus tau nih! Di Steam sekarang ada game horor Jepang yang konsepnya tuh beda banget dari game horror biasa. Namanya Hachishakusama, atau kalo diterjemahin — "Liburan Musim Panas Bersama Hachishakusama." Kedengerannya kayak judul anime wholesome ya? SALAH. Ini game yang bikin lo nyesel liburan ke rumah kakek nenek.
 
-"Nah, sekarang bayangin lo lagi nyapu halaman... terus ada CEWEK TINGGI 2,4 METER pake topi lebar berdiri di ujung jalan. Ngeliatin lo. Diem aja. Senyum."
+Jadi ceritanya gini. Lo main sebagai bocah yang lagi liburan musim panas di pedesaan Jepang. Lo bantu-bantu kakek, nyapu halaman, jalan-jalan ke desa. Vibes-nya tuh kayak lo lagi nostalgia masa kecil gitu. Damai. Tenang. Cicada bunyi di mana-mana.
 
-**[Beat/pause]**
+Sampe akhirnya... lo liat cewek tinggi 2,4 meter berdiri di ujung jalan.
 
-"...Po... po... po..."
+Diem aja. Pake topi lebar. Senyum.
 
-"SELAMAT DATANG di 八尺様がいた夏休み, atau buat yang gak bisa baca kanji — Hachishakusama. Game di mana liburan musim panas lo berubah jadi mimpi buruk gara-gara cewek tinggi yang gak diundang tapi nempel kayak ex yang belum move on."
+"Po... po... po..."
 
----
+Nah itu dia. Hachishakusama.
 
-### [SEGMENT 1 - Pengenalan Game & Urban Legend]
-
-**[Scene: Footage pembukaan game, karakter tiba di desa]**
-
-"Jadi sebelum gue bahas game-nya, lo HARUS tau dulu cerita di balik ini. Hachishakusama itu urban legend Jepang yang viral di forum 2channel tahun 2008. Basically — ada hantu cewek tingginya DELAPAN KAKI alias sekitar 240 senti. Doi pake topi lebar, gaun putih, dan punya kebiasaan... ketawa."
-
-"'Po po po po po...'"
-
-"Dan targetnya? Anak-anak. Umur 9-11 tahun. Doi bakal stalk lo berhari-hari, berminggu-minggu, sampe akhirnya... lo ilang. Gone. Bye bye. Jadi kayak creepypasta versi Jepang yang bener-bener bikin lo mikir dua kali kalo mau liburan ke pedesaan."
-
-**[Beat]**
-
-"Dan developer game ini bilang, 'Hmm... kayaknya ini cocok jadi game.' SIAPA yang mikir kayak gitu?! Tapi... mereka bener sih. Cocok banget."
 
 ---
 
-### [SEGMENT 2 - Premis & Cerita]
 
-**[Scene: Footage gameplay awal, karakter bangun di rumah kakek nenek]**
+[SEGMENT 1 - APA SIH HACHISHAKUSAMA?]
 
-"Jadi premis-nya sederhana. Lo main sebagai bocah yang lagi liburan musim panas di rumah kakek nenek. Setting-nya pedesaan Jepang yang INDAH banget — sawah, kuil, cicak... eh cicada. Suara jangkrik musim panas. Lo literally bisa ngerasa panasnya lewat layar."
+Buat yang belum tau, Hachishakusama itu urban legend Jepang yang terkenal banget. Awalnya viral di forum 2channel tahun 2008. Intinya ada hantu cewek yang tingginya delapan kaki — sekitar 240 senti. Doi pake gaun putih, topi lebar, dan selalu ketawa "po po po po po."
 
-"Awalnya game ini SANTAI BANGET. Lo bantu kakek di kebun. Lo jalan-jalan ke desa. Lo ngobrol sama warga. Lo pikir ini game slice of life kayak Boku no Natsuyasumi gitu."
+Targetnya siapa? Anak-anak. Doi bakal ngikutin lo berhari-hari, kadang berminggu-minggu, sampe akhirnya lo hilang. Gak ketemu lagi. Serem kan?
 
-"Terus..."
+Nah developer game ini ambil urban legend itu dan dijadiin game. Dan hasilnya? Surprisingly bagus.
 
-**[Pause dramatis, BGM berubah]**
-
-"Lo liat dia. Di kejauhan. Berdiri di balik pohon. Tinggi. Gak proporsional. Senyum."
-
-"Dan dari situ... game ini berubah TOTAL."
 
 ---
 
-### [SEGMENT 3 - Gameplay & Mekanik]
 
-**[Scene: Footage gameplay — melakukan chores, lalu chase sequence]**
+[SEGMENT 2 - AWAL GAME SANTAI BANGET]
 
-"Nah yang bikin game ini unik, dia gak langsung jumpscare lo dari menit pertama. NGGAK. Doi sabar. Developer-nya sabar. Hachishakusama-nya APALAGI sabar."
+Awal-awal game ini tuh lo gak bakal ngerasa ini horror game. Serius. Lo bangun pagi, sarapan sama kakek nenek, terus disuruh bantu-bantu. Nyapu halaman lah, beli sesuatu ke toko lah, jalan-jalan keliling desa lah.
 
-"Lo tetep jalanin aktivitas sehari-hari — nyapu, bantu kakek, jalan ke toko. Tapi di background... dia ada. Kadang lo liat bayangan di ujung jalan. Kadang lo denger suara 'po po po' dari belakang tembok. Kadang lo nengok ke belakang dan... gak ada siapa-siapa."
+Setting-nya pedesaan Jepang yang cantik banget. Sawah, kuil kecil, jalan setapak, bunga matahari. Warna-warnanya warm. Lo mikir ini game slice of life.
 
-"TAPI LO TAU DIA ADA."
+Tapi makin lama, lo mulai ngerasa ada yang aneh. Ada bayangan di ujung jalan. Ada suara "po po po" yang samar dari belakang tembok. Lo nengok — gak ada siapa-siapa.
 
-"Ini yang bikin game ini BEDA dari horror game lain. Kebanyakan horror game tuh: gelap, monster, lari, sembunyi, repeat. Ini? Lo lagi nyapu halaman TERUS TIBA-TIBA LANGIT JADI MERAH. Tembok beton muncul entah dari mana ngeblock jalan lo. Dan Hachishakusama... dia udah di belakang lo."
+Tapi lo TAU ada sesuatu.
 
-**[Sound effect: heartbeat intensifies]**
-
-"Chase sequence-nya tuh INTENS banget guys. Lo harus lari, sembunyi, dan cari jalan keluar sementara dia ngejar lo dengan kecepatan yang... uncomfortable. Gak lari sprint, tapi CEPET. Kayak orang jalan cepet tapi kakinya sepanjang tiang listrik."
 
 ---
 
-### [SEGMENT 4 - Atmosphere & Art Style]
 
-**[Scene: Footage suasana desa, perubahan atmosfer dari cerah ke horor]**
+[SEGMENT 3 - TERUS TIBA-TIBA LANGIT JADI MERAH]
 
-"Dan gue harus apresiasi satu hal dari game ini — ATMOSFER-nya. Bro. Ini bukan horror game yang gelap-gelapan di basement kayak game horror kebanyakan. Ini SIANG HARI. MUSIM PANAS. Matahari terang. Langit biru."
+Nah di sinilah game ini mulai gila. Tanpa warning, langit berubah merah. Tembok beton muncul entah dari mana nge-block jalan lo. Dan Hachishakusama? Dia udah di belakang lo.
 
-"Terus kenapa gue MERINDING?"
+Chase sequence-nya intens banget. Lo harus lari, sembunyi, cari jalan keluar. Dan yang bikin creepy, dia gak lari sprint kayak monster di game horror biasa. Dia JALAN. Tapi cepet. Kakinya panjang banget jadi satu langkah dia tuh udah kayak tiga langkah lo.
 
-"Karena developer-nya ngerti satu hal fundamental tentang horor Jepang: yang paling serem itu bukan yang di gelap. Yang paling serem itu yang lo liat DI SIANG HARI tapi gak seharusnya ada di sana."
+Uncomfortable banget ngeliatnya.
 
-"Bayangin lo lagi jalan di jalan desa yang cerah, bunga matahari di kiri kanan, cicada bunyi kenceng... terus di ujung jalan ada sosok tinggi abnormal berdiri ngeliatin lo. Gak ngapa-ngapain. Just... there."
+Dan yang bikin beda dari game horror lain — ini semua terjadi DI SIANG HARI. Bukan di basement gelap. Bukan di rumah sakit angker. Lo lagi di desa yang cerah, matahari terang, terus tiba-tiba dikejar makhluk tinggi 2,4 meter.
 
-**[Beat]**
+Itu yang bikin game ini serem. Karena setting-nya harusnya aman. Harusnya damai. Tapi nggak.
 
-"NOPE. NOPE NOPE NOPE."
-
-"Art style-nya sendiri punya vibe kayak game Jepang klasik — agak retro, warm color palette buat scene normal, terus langsung shift ke merah dan gelap waktu Hachishakusama mulai aktif. Kontrasnya GILA. Lo dari 'ah damai banget liburan' ke 'GUE MAU PULANG' dalam 0.5 detik."
 
 ---
 
-### [SEGMENT 5 - Kenapa Game Ini Special]
 
-**[Scene: Footage berbagai momen gameplay, perbandingan dengan game horror lain]**
+[SEGMENT 4 - YANG GUE SUKA]
 
-"Sekarang, kenapa sih game ini worth it dibahas? Kan banyak tuh game horror indie di Steam."
+Pertama, pacing-nya. Game ini sabar banget. Gak langsung jumpscare lo dari menit pertama. Lo dibuat nyaman dulu, dibuat lengah, baru ditarik ke horror-nya. Itu cara bikin horor yang bener.
 
-"PERTAMA — source material-nya. Ini bukan urban legend asal-asalan. Hachishakusama itu IKONIK di Jepang. Sama kayak Kuchisake-onna (si cewek mulut robek) atau Sadako. Level legend-nya udah tier atas. Dan game ini SETIA sama cerita aslinya. Gak dibuat comedy, gak dibuat parodi. Ini horor Jepang yang BENERAN mau bikin lo takut."
+Kedua, source material-nya kuat. Hachishakusama itu bukan urban legend asal-asalan. Ini setingkat sama Sadako, Kuchisake-onna, atau Kayako. Dan game ini setia sama cerita aslinya, gak dibuat parodi atau comedy.
 
-"KEDUA — pacing-nya. Game ini ngerti banget kapan harus slow, kapan harus intens. Lo gak di-jumpscare tiap 30 detik kayak game horror murahan. Lo di-build up pelan-pelan. Dibuat nyaman dulu. Dibuat lengah. TERUS BAM."
+Ketiga, art style-nya. Warm color buat scene normal, langsung shift ke merah gelap waktu Hachishakusama muncul. Kontrasnya kerasa banget. Lo dari "ah liburan damai" ke "GUE MAU PULANG" dalam hitungan detik.
 
-"KETIGA — tema-nya. Ini bukan cuma game horor. Ini game tentang LIBURAN MUSIM PANAS yang jadi nightmare. Ada nostalgia di sini. Ada sense of innocence yang perlahan hilang. Lo bisa ngerasain — 'ini harusnya momen indah, tapi kenapa jadi kayak gini?' Dan itu... itu yang bikin game ini nempel di kepala lo."
+Keempat, sound design-nya. Suara cicada musim panas yang bikin rileks, terus tiba-tiba diem. Hening. Dan lo denger "po po po" pelan banget di kejauhan. Itu udah cukup bikin bulu kuduk berdiri.
 
-"Deskripsi game-nya sendiri bilang: 'heartwarming yet terrifying.' Dan jujur? Itu PERFECT description. Lo bakal ngerasa warm di awal-awal, terus perlahan rasa hangat itu berubah jadi keringat dingin."
 
 ---
 
-### [SEGMENT 6 - Kekurangan & Catatan]
 
-**[Scene: Gameplay footage, UI, dan beberapa scene]**
+[SEGMENT 5 - KEKURANGAN]
 
-"Tapi fair aja ya — ini game indie Jepang. Jangan expect AAA production value. Grafisnya gak bakal nyaingin Resident Evil Village. Control-nya mungkin agak clunky. Dan kalo lo gak familiar sama budaya horor Jepang, mungkin beberapa referensi bakal miss."
+Tapi ya namanya game indie, ada kekurangannya. Grafis-nya jangan di-expect AAA. Control kadang agak clunky. Dan game-nya bahasa Jepang — emang ada subtitle bahasa lain termasuk Inggris, tapi beberapa konteks budaya mungkin gak ke-deliver sepenuhnya kalo lo gak familiar sama horor Jepang.
 
-"Plus, game ini BAHASA JEPANG. Ada subtitle bahasa lain termasuk Inggris dan bahkan Indonesia, tapi experience-nya paling kerasa kalo lo ngerti konteks budaya Jepang-nya. Lo tau kenapa rumah kakek nenek itu safe zone. Lo tau kenapa ofuda (jimat) itu penting. Lo tau kenapa harus ngelakuin ritual tertentu."
+Terus durasinya juga gak panjang banget. Ini bukan game 40 jam. Tapi untuk pengalaman yang dikasih, menurut gue cukup worth it.
 
-"Tapi honestly? Kalo lo suka horor Jepang, kalo lo suka atmosfer slow-burn, kalo lo suka game yang bikin lo takut TANPA harus spamming jumpscare — ini game lo."
 
 ---
 
-### [SEGMENT 7 - Verdict/Kesimpulan]
 
-**[Scene: Montage momen-momen terbaik game]**
+[SEGMENT 6 - VERDICT]
 
-"Jadi, worth it gak 八尺様がいた夏休み?"
+Jadi worth it gak?
 
-"Kalo lo fans Japanese horror — Ju-On, Ringu, Fatal Frame, game-game horor Jepang klasik — ini WAJIB main. Wajib. Gak pake debat."
+Kalo lo suka horor Jepang, suka creepypasta, suka game yang build up-nya sabar dan gak asal jumpscare — ini game lo. Mainkan.
 
-"Kalo lo suka creepypasta dan urban legend — ini basically playable creepypasta yang di-execute dengan BENER."
+Kalo lo cuma mau game horror yang action terus dari awal sampe akhir — skip aja. Ini bukan style-nya.
 
-"Kalo lo cuma mau game yang full action jumpscare tiap detik — mungkin ini bukan buat lo. Ini slow burn. Ini tentang atmosphere. Ini tentang rasa DREAD yang perlahan ngebuilt di perut lo."
+Kalo lo takut sama orang tinggi — good luck.
 
-"Kalo lo takut sama orang tinggi — ... good luck."
+Menurut gue ini salah satu hidden gem horror indie yang worth banget dicoba. Developer-nya ngerti cara bikin orang takut tanpa harus teriak-teriak "BOO!" tiap 30 detik.
 
-**[Beat]**
-
-"Rating gue? Ini salah satu hidden gem horor indie yang paling bikin gue impressed tahun ini. Developer-nya ngerti horor. Bukan horor 'WAAAH MONSTER!' tapi horor 'tunggu... ada yang gak bener di sini.' Dan itu jauh. Lebih. Serem."
 
 ---
 
-### [OUTRO]
 
-**[Scene: Footage ending, karakter di pedesaan saat sunset]**
+[OUTRO]
 
-"Oke guys, segitu dulu review gue tentang Hachishakusama. Kalo lo suka video ini, like, subscribe, pencet lonceng — lo tau lah ritualnya."
+Oke segitu dulu review gue tentang Hachishakusama. Kalo lo suka video ini, like subscribe pencet lonceng, lo tau lah.
 
-"Kalo lo udah main, komen di bawah — seberapa cepet lo nyadar kalo Hachishakusama udah ngikutin lo? Gue penasaran."
+Kalo udah main, komen di bawah — kapan pertama kali lo nyadar Hachishakusama udah ngikutin lo?
 
-"Dan kalo lo belum main... main malem-malem. Sendirian. Matiin lampu. Pake headset."
+Dan kalo belum main, coba deh main malem-malem sendirian pake headset.
 
-**[Pause]**
+Terus kalo denger "po po po" dari luar jendela...
 
-"...terus kalo denger 'po po po' dari luar jendela..."
+...jangan nengok.
 
-**[Layar gelap]**
-
-"...jangan nengok."
-
-**[END CARD / OUTRO MUSIC]**
 
 ---
 
-## CATATAN PRODUKSI:
-- **Durasi estimasi:** 8-10 menit
-- **Tone:** Santai dan lucu di awal, gradual shift ke serius dan creepy — mirip pacing game-nya sendiri
-- **Editing style:** Jump cut cepat pas lucu, slow take dan long shot pas creepy. Zoom in pas punchline, freeze frame pas reveal Hachishakusama
-- **BGM:** Lo-fi summer vibes buat segment awal, traditional Japanese horror ambient buat segment tengah-akhir, cicada sounds sebagai transition
-- **Sound design:** Suara 'po po po' harus subtle di background beberapa segment sebelum di-reveal — biar penonton yang peka nyadar duluan
-- **Referensi footage:** Gameplay langsung dari Steam, trailer resmi, screenshot dari store page
+
+CATATAN PRODUKSI:
+- Durasi estimasi: 8-10 menit
+- Tone: Santai dan fun di awal, perlahan shift ke creepy
+- Editing: Jump cut cepat pas segment lucu, slow take pas segment horor
+- BGM: Lo-fi summer vibes di awal, Japanese horror ambient di tengah-akhir
+- Sound design: Suara "po po po" subtle di background sebelum di-reveal
 
 ---
 
-*Sumber informasi: [Steam Store Page](https://store.steampowered.com/app/4689420/Hachishakusama/), [SteamDB](https://steamdb.info/app/4689420/), [Automaton Media](https://automaton-media.com/en/news/japanese-indie-game-based-on-a-2ch-creepypasta-lets-you-spend-your-summer-holiday-playing-hide-and-seek-with-an-obsessive-eight-foot-tall-giantess/), [Snopes - Hachishakusama Legend](https://www.snopes.com/fact-check/8-foot-tall-woman-japan/)*
-*Content was rephrased for compliance with licensing restrictions.*
+Sumber informasi:
+- https://store.steampowered.com/app/4689420/Hachishakusama/
+- https://steamdb.info/app/4689420/
+- https://automaton-media.com/en/news/japanese-indie-game-based-on-a-2ch-creepypasta-lets-you-spend-your-summer-holiday-playing-hide-and-seek-with-an-obsessive-eight-foot-tall-giantess/
+- https://www.snopes.com/fact-check/8-foot-tall-woman-japan/
